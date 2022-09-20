@@ -4,7 +4,7 @@
 
 Projeto construido no evento Next Level Week da Rockeatseat.
 
-:link:[Clique aqui para acessar.](https://gabriel6268.github.io/rockseat_curse/)
+:link:[Clique aqui para acessar.](https://gabriel6268.github.io/NLW_eSports_Explorer/)
 ## :wrench: Tecnologias
 - HTML 5
 - CSS 3 
